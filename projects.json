@@ -3,18 +3,18 @@
     "name": "Tic-Tac-Toe",
     "live": "https://jpantano30.github.io/Jena-Pantano-Portfolio/Game/index.html",
     "git": "https://github.com/jpantano30/Jena-Pantano-Portfolio/tree/main/Game",
-    "image": "./images/tictactoeModalScreenShot.jpg"
+    "image": "/public/images/tictactoeModalScreenShot.jpg"
   },
   {
     "name": "What Are We Cooking",
     "live": "https://what-are-we-cooking.netlify.app/",
     "git": "https://github.com/jpantano30/What_Are_We_Cooking-",
-    "image": "./images/WhatAreWeCookingIMG.jpg"
+    "image": "/public/images/WhatAreWeCookingIMG.jpg"
   },
   {
     "name": "The CrossFit Vault",
     "live": "https://the-crossfit-vault-cadc50ebd52d.herokuapp.com/workouts",
     "git": "https://github.com/jpantano30/The-CrossFit-Vault",
-    "image": "./images/workoutIndex.png"
+    "image": "/public/images/workoutIndex.png"
   }
 ]
