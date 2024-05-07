@@ -15,6 +15,8 @@ const PORT = process.env.PORT || 4000
 
 // set up middleware 
 app.use(cors())
+app.use(express.static('public'))
+
 
 // testing home 
 app.get('/', (req, res) => {
